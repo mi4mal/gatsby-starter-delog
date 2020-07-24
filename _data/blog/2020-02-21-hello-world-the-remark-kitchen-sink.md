@@ -2,9 +2,11 @@
 template: BlogPost
 path: /remark-kitchen-sink
 date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
+title: Техническое обслуживание серверов
 thumbnail: /assets/image-6.jpg
 ---
+### Установка и сопровождение серверов различного назначения. Установка и настройка серверного программного обеспечения на базе ОС Windows, Linux, FreeBSD. Настройка резервного копирования и экстренное восстановление после сбоя. Круглосуточный мониторинг работоспособности сервера.
+
 # h1 Heading 8-)
 
 ## h2 Heading
@@ -210,8 +212,7 @@ Third paragraph of definition 2.
 
 Term 1   ~ Definition 1
 
-Term 2   \~ Definition 2a
-  \~ Definition 2b
+Term 2   \~ Definition 2a   \~ Definition 2b
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
@@ -223,8 +224,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 ### [Custom containers](https://github.com/markdown-it/markdown-it-container)
 
-::: warning *here be dragons* :::---
-**Advertisement :)**
+::: warning *here be dragons* :::--- **Advertisement :)**
 
 * **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image resize in browser.
 * **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly i18n with plurals support and easy syntax.
@@ -438,8 +438,7 @@ Third paragraph of definition 2.
 
 Term 1   ~ Definition 1
 
-Term 2   \~ Definition 2a
-  \~ Definition 2b
+Term 2   \~ Definition 2a   \~ Definition 2b
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
